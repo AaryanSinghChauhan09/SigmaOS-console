@@ -1,4 +1,6 @@
-# Omaterm
+# SigmaOS Omaterm
+
+> Forked from omacom/omaterm (MIT). See `SIGMAOS_FORK.md`.
 
 An Omakase Terminal Setup by DHH. Think of it as a headless [Omarchy](https://omarchy.org).
 
