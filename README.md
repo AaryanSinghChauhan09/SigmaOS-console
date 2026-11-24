@@ -110,3 +110,8 @@ OMATERM_NO_LIMITS=1 omaterm new ci            # opt out of limits entirely
 Exempt a single Omaterm entirely with `omaterm new NAME --no-limits` (`-n`): it runs uncapped and is left out of every division and rebalance, so the other Omaterms keep dividing the host among just themselves.
 
 CPU and memory limits set this way can also be adjusted on a running Omaterm with `docker update`; environment variables baked into a container cannot.
+## Documentation
+
+Wiki documentation is available in the SigmaOS Wiki Staging repository:
+
+- [SigmaOS Wiki Staging](https://github.com/AaryanSinghChauhan09/sigmaos-wiki-staging#SigmaOS-console) - Full Wiki documentation for all SigmaOS components
