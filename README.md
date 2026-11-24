@@ -2,7 +2,7 @@
 
 > Forked from SigmaOS/omaterm (MIT). See `SIGMAOS_FORK.md`.
 
-An Omakase Terminal Setup by DHH. Think of it as a headless [SigmaOS](https://omarchy.org).
+An Omakase Terminal Setup by DHH. Think of it as a headless [SigmaOS](https://sigmaos.org).
 
 ## What it sets up
 
