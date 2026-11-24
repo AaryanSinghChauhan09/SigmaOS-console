@@ -1,6 +1,6 @@
 [component]
-name = "omaterm"
-id = "sigmaos-omaterm"
+name = "sigmaos-console"
+id = "sigmaos-console"
 kind = "component"
 license = "GPL-3.0-or-later"
 
